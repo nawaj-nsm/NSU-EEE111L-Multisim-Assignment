@@ -24,7 +24,7 @@ This repository contains the assignment-1 PDF and Multisim simulation solutions 
 
 ## Requirements
 
-- NI Multisim (12th & 14th version)
+- NI Multisim (12th or 14th or any compatible version )
 - A computer capable of running Multisim
 
 ## How to Use
